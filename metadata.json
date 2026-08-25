@@ -1,0 +1,6 @@
+{
+  "name": "블랙박스 과실 판독소 - 교통사고 몇 대 몇? 퀴즈",
+  "description": "한문철 변호사 빙의! 실제 손해보험협회 과실비율 인정기준 및 최신 도로교통법 판례 기반의 교통사고 과실 판독 & 헷갈리는 도로교통 퀴즈",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
